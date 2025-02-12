@@ -33,7 +33,7 @@ setup(
     version=version,
     description="A fast and local neural text to speech system",
     long_description=long_description,
-    url="http://github.com/rhasspy/piper",
+    url="http://github.com/pierrewessman/piper",
     author="Michael Hansen",
     author_email="mike@rhasspy.org",
     license="MIT",
